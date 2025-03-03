@@ -1,0 +1,5 @@
+- Binary Classification
+- Logistic Regression
+- R = rock
+- M = mines
+- The data is colleted in a lab where sonar data is classified and collected for rocks and metal cylinder
